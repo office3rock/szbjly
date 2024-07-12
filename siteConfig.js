@@ -3,21 +3,21 @@ module.exports = {
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "szbjly", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "Moran Elkrif", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "szbjly", // This allows an alternative site description for meta data for pages.
+    "Moran Elkrif", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "szbjly", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "Moran Elkrif", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "szbjly",
+    title: "Moran Elkrif",
     helpText: "Keep following",
     successMessage: "Thank you The message was sent successfully",
   },
@@ -70,9 +70,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "szbjly",
+    title: "Moran Elkrif",
     description:
-      "szbjly",
+      "Moran Elkrif",
   },
   twitterCard: {
     title: "",
@@ -88,10 +88,10 @@ module.exports = {
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "szbjly",
+  siteTitle: "Moran Elkrif",
   siteDescription:
-    "szbjly",
-  language: "he",
+    "Moran Elkrif",
+  language: "en",
   logoUrl: "",
   iconUrl: "",
   coverUrl: "cover.jpg",
